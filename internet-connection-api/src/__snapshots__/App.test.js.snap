@@ -1,0 +1,66 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test app component using pattern Function as Children 1`] = `
+<DocumentFragment>
+  <h1>
+    List of execution of Page Internet Connection API 
+  </h1>
+  <ul>
+    <li>
+      Your state to internet is: Connected
+    </li>
+  </ul>
+</DocumentFragment>
+`;
+
+exports[`Test event list component using pattern Container Presentational 1`] = `
+<DocumentFragment>
+  <h1>
+    List of execution of Page Internet Connection API 
+  </h1>
+  <ul>
+    <li>
+      Your state to internet is: Connected
+    </li>
+  </ul>
+</DocumentFragment>
+`;
+
+exports[`Test event list component using pattern Custom Hooks 1`] = `
+<DocumentFragment>
+  <h1>
+    List of execution of Page Internet Connection API 
+  </h1>
+  <ul>
+    <li>
+      Your state to internet is: Connected
+    </li>
+  </ul>
+</DocumentFragment>
+`;
+
+exports[`Test event list component using pattern High Order Components 1`] = `
+<DocumentFragment>
+  <h1>
+    List of execution of Page Internet Connection API 
+  </h1>
+  <ul>
+    <li>
+      Your state to internet is: undefined
+    </li>
+  </ul>
+</DocumentFragment>
+`;
+
+exports[`Test event list component using pattern Render Props 1`] = `
+<DocumentFragment>
+  <h1>
+    List of execution of Page Internet Connection API 
+  </h1>
+  <ul>
+    <li>
+      Your state to internet is: Connected
+    </li>
+  </ul>
+</DocumentFragment>
+`;

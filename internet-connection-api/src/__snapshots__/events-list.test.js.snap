@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test event list component 1`] = `
+<DocumentFragment>
+  Titulo 1
+  <ul>
+    <li>
+      Your state to internet is: Connected
+    </li>
+  </ul>
+</DocumentFragment>
+`;
